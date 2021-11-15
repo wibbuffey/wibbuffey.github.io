@@ -1,6 +1,4 @@
-# hi
-
-## introduction
+## who the hell are you
 
 i'm wibbuffey  
 i like code  
